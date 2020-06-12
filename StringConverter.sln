@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringConverter", "StringConverter\StringConverter.csproj", "{297CD858-C026-472E-8494-2DDAB03965FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{297CD858-C026-472E-8494-2DDAB03965FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297CD858-C026-472E-8494-2DDAB03965FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297CD858-C026-472E-8494-2DDAB03965FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297CD858-C026-472E-8494-2DDAB03965FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
